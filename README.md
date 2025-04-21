@@ -30,7 +30,7 @@ docker build -t learning-assistant .
 docker run -p 8000:8000 learning-assistant
 ```
 
-Now hit up your browser at `http://localhost:8000/docs` to test the API. Simple, right? 😎
+Now hit up your browser at `http://localhost:8000/docs` to test the API. Simple, right? 
 
 ---
 
@@ -158,5 +158,5 @@ Here’s what I want to build next:
 
 Hey! I’m **Anil**, a final-year B.Tech student (AI/ML) at SRM University, AP. I love building smart tools with AI and simplifying complex concepts. This project was my attempt to do just that.
 
-Thanks for checking it out. Hope it’s helpful or at least sparks some ideas! 🙌
+Thanks for checking it out. Hope it’s helpful or at least sparks some ideas! 
 
