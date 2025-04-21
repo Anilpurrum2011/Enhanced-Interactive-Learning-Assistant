@@ -1,0 +1,9 @@
+
+[
+  {
+    "topic": "Neural Networks",
+    "objective": "Understand backpropagation and training dynamics",
+    "prior_knowledge": "intermediate",
+    "preferred_format": "text"
+  }
+]
