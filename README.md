@@ -1,4 +1,4 @@
-# 🧠 Learning Assistant - Humanized README
+# 🧠 Learning Assistant 
 
 Hey there! 👋
 
