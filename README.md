@@ -148,13 +148,10 @@ Here’s what I want to build next:
 
 ## 📸 Bonus: Add Demo Media
 
-If possible, include screenshots of:
-
 - Swagger `/docs`
 - Input prompt
 - HTML report preview
 
-Or record a tiny 1-min walkthrough – it’s always helpful.
 
 ---
 
