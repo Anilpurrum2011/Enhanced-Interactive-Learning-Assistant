@@ -1,6 +1,6 @@
-# 🧠 Learning Assistant 
+## Learning Assistant 
 
-Hey there! 👋
+Hey there! 
 
 Welcome to the **Enhanced Interactive Learning Assistant**, a personal project where I combined my passion for AI, learning, and software development to build a tool that feels like your personal research companion.
 
@@ -8,7 +8,7 @@ This project uses a local LLM (LLaMA3 through Ollama) to simulate smart research
 
 ---
 
-## 🚀 Quick Setup
+##  Quick Setup
 
 Before diving in, make sure you have:
 
@@ -21,7 +21,7 @@ Before diving in, make sure you have:
 ollama run llama3
 ```
 
-> ⚠️ Heads-up: LLaMA3 is memory-hungry. Make sure you have ~6 GB free RAM. If not, consider a lighter model.
+>  Heads-up: LLaMA3 is memory-hungry. Make sure you have ~6 GB free RAM. If not, consider a lighter model.
 
 ### Step 2: Build and launch the app
 
@@ -34,7 +34,7 @@ Now hit up your browser at `http://localhost:8000/docs` to test the API. Simple,
 
 ---
 
-## 🧩 How It Works (Architecture)
+##  How It Works (Architecture)
 
 Here’s the rough flow of what’s happening under the hood:
 
@@ -47,7 +47,7 @@ It’s all dockerized too – just two commands and you're good to go.
 
 ---
 
-## 🔍 How Research Is Simulated
+##  How Research Is Simulated
 
 Instead of scraping live websites or YouTube, I crafted dynamic prompts to simulate how a human would research from:
 
@@ -59,7 +59,7 @@ It feels natural and layered without needing actual crawling.
 
 ---
 
-## 🎯 Making It Personal
+##  Making It Personal
 
 Everyone learns differently, so the assistant tries to adapt by asking:
 
@@ -71,7 +71,7 @@ This helps it shape the tone and format of the final report.
 
 ---
 
-## 📘 Report Magic
+##  Report Magic
 
 Every report you get follows a clean structure:
 
@@ -85,7 +85,7 @@ There’s even a `/update-report` endpoint so you can ask it to refine or tweak 
 
 ---
 
-## 🧪 Sample Input & Output
+##  Sample Input & Output
 
 ### Input JSON
 
@@ -115,7 +115,7 @@ Sample outputs are included in the `/samples` folder.
 
 ---
 
-## 🔒 Known Limitations
+##  Known Limitations
 
 - Needs Ollama + enough RAM to run LLaMA3
 - Doesn’t fetch real-time data – all info is simulated via LLM
@@ -123,7 +123,7 @@ Sample outputs are included in the `/samples` folder.
 
 ---
 
-## 🧠 Future Ideas
+##  Future Ideas
 
 Here’s what I want to build next:
 
@@ -139,23 +139,22 @@ Here’s what I want to build next:
 
 - [x] App runs with just 2 commands
 - [x] Dockerized backend
-- [x] README you're reading now 😄
+- [x] README you're reading now 
 - [x] Sample reports included
 - [x] Well-structured codebase
 - [x] Prioritized core features
 
 ---
 
-## 📸 Bonus: Add Demo Media
+## Demo Media
 
-- Swagger `/docs`
-- Input prompt
 - HTML report preview
-
-
+  ![WhatsApp Image 2025-04-21 at 21 35 25_8b506d2a](https://github.com/user-attachments/assets/ac603c74-4746-47a1-9c7f-8fc112417f3f)
+  ![WhatsApp Image 2025-04-21 at 21 38 36_c98acfe6](https://github.com/user-attachments/assets/85aecc2b-5539-4c7e-9544-6088f158ba11)
+  ![WhatsApp Image 2025-04-21 at 21 41 55_6c2f0dec](https://github.com/user-attachments/assets/baf1147a-e1a0-47aa-b3f0-f6cf63d553f5)
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 Hey! I’m **Anil**, a final-year B.Tech student (AI/ML) at SRM University, AP. I love building smart tools with AI and simplifying complex concepts. This project was my attempt to do just that.
 
